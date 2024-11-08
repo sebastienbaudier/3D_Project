@@ -10,4 +10,4 @@ L'oiseau est accroché à la caméra, qui est contrôlée avec les flèches du c
 
 ## Contributions
 
-Le projet a été mené par **PositroniumJS** et **sebastienbaudier**.
+Le projet a été mené par [**PositroniumJS**](https://github.com/PositroniumJS) et [**sebastienbaudier**](https://github.com/sebastienbaudier).
