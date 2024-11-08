@@ -1,21 +1,13 @@
 # INF3D
-
-Projet du cours d'INF443 de Sébast et J-S
-
+Projet du cours d'INF443 de Jean-Samuel et Sébastien
 Compatible CMake et Make
 
-## Objectifs
+## Description
 
-- ~Élaboration d'une première parcelle~
-- ~Caméra que l'on peut déplacer avec le clavier~
-- Mise en place d'un oiseau volant qui avance avec la caméra derrière
-- ~Ajout d'un ciel~
-- Élaboration de 5 à 10 parcelles différentes :
-	- ~première scène améliorée~
-	- un désert
-	- un monde d'eau (fleuve)
-	- un monde de lave (recyclage monde d'eau)
-	- un monde de montagne
-	- une île
-- ~Mise en place de la sélection aléatoire des parcelles et affichage~
-- Mise en place d'une transition entre les parcelles
+Différents mondes sous formes de parcelles ont été créés.
+Un oiseau survole ces parcelles qui sont actualisées afin que le monde semble infini.
+L'oiseau est accroché à la caméra, qui est contrôlée avec les flèches du clavier. Shift permet d'accélérer le vol.
+
+## Contributions
+
+Le projet a été mené par **PositroniumJS** et **sebastienbaudier**.
